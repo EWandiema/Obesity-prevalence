@@ -16,7 +16,7 @@ This project uses data sourced from Kaggle. The dataset can be accessed here:htt
 The dashboard can be accessed here: https://public.tableau.com/views/obesity_prevalence/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dashboard preview
-![Prevalence of obesity dashboard](tableau/screenshot_(28))
+![Prevalence of obesity dashboard](tableau.dashboard)
 
 ## Analysis questions
 1. What percentage of the population is obese?  
@@ -40,4 +40,3 @@ The dashboard can be accessed here: https://public.tableau.com/views/obesity_pre
 4. Use the Tableau Public link to view the dashboard.
 5. Run the queries in BigQuery SQL editor to reproduce the analysis. 
 
-Run the queries in 
