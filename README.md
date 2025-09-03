@@ -35,7 +35,7 @@ The dashboard can be accessed here: https://public.tableau.com/views/obesity_pre
 
 ## Usage instructions
 1. Upload the dataset to Google BigQuery.  
-2. Open the file `queries-obesity_prevalence.sql`.
+2. Open the file 'queries-obesity-prevalence.sql'.
 3. Run the queries in BigQuery SQL editor.
 4. Use the Tableau Public link to view the dashboard.
 5. Run the queries in BigQuery SQL editor to reproduce the analysis. 
